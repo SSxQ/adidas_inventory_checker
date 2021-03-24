@@ -1,0 +1,827 @@
+[
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.759938,
+            "lng": 37.625607
+        },
+        "distance": {
+            "unit": "km",
+            "value": 0.693226817717986
+        },
+        "id": "RU507918",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas kids, ЦДМ Лубянка",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)981-25-06",
+        "street": "Театральный проезд 5"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.75775599,
+            "lng": 37.65909367
+        },
+        "distance": {
+            "unit": "km",
+            "value": 2.62753415197943
+        },
+        "id": "RU212765",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, ТЦ Атриум",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "23:00"
+            }
+        ],
+        "phoneNumber": "+7(495)725-44-92",
+        "street": "Земляной Вал 33"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.7834947,
+            "lng": 37.6021072
+        },
+        "distance": {
+            "unit": "km",
+            "value": 3.22458901511901
+        },
+        "id": "RU470152",
+        "isCnCStore": 0,
+        "maxDeliveryDays": 0,
+        "name": "adidas & Reebok Outlet, ТЦ Савеловский",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "21:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "21:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "21:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "21:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "21:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "21:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "21:00"
+            }
+        ],
+        "phoneNumber": "+7(499)657-98-45",
+        "street": "Сущевский Вал 5, стр.1"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.761978,
+            "lng": 37.566439
+        },
+        "distance": {
+            "unit": "km",
+            "value": 3.25950268658033
+        },
+        "id": "RU212780",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas Красная Пресня | открыт круглосуточно | перерыв с 8:00-9:00, с 22:00-23:00",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "00:01",
+                "to": "23:59"
+            },
+            {
+                "day": "tuesday",
+                "from": "00:01",
+                "to": "23:59"
+            },
+            {
+                "day": "wednesday",
+                "from": "00:01",
+                "to": "23:59"
+            },
+            {
+                "day": "thursday",
+                "from": "00:01",
+                "to": "23:59"
+            },
+            {
+                "day": "friday",
+                "from": "00:01",
+                "to": "23:59"
+            },
+            {
+                "day": "saturday",
+                "from": "00:01",
+                "to": "23:59"
+            },
+            {
+                "day": "sunday",
+                "from": "00:01",
+                "to": "23:59"
+            }
+        ],
+        "phoneNumber": "+7(499)255-07-06",
+        "street": "Красная Пресня 23, стр.1А"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.748794,
+            "lng": 37.538566
+        },
+        "distance": {
+            "unit": "km",
+            "value": 4.99567252790896
+        },
+        "id": "RU212713",
+        "isCnCStore": 0,
+        "maxDeliveryDays": 0,
+        "name": "adidas kids, ТЦ Афимолл Сити",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)221-89-67",
+        "street": "Пресненская набережная 2"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.748794,
+            "lng": 37.538566
+        },
+        "distance": {
+            "unit": "km",
+            "value": 4.99567252790896
+        },
+        "id": "RU470175",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, ТЦ Афимолл Сити",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)782-89-54",
+        "street": "Пресненская набережная 2"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.7085885,
+            "lng": 37.5956214
+        },
+        "distance": {
+            "unit": "km",
+            "value": 5.43276525087483
+        },
+        "id": "RU212692",
+        "isCnCStore": 0,
+        "maxDeliveryDays": 0,
+        "name": "adidas Outlet, ТЦ Орджоникидзе",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)258-80-33",
+        "street": "Орджоникидзе 11"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.746996,
+            "lng": 37.705987
+        },
+        "distance": {
+            "unit": "km",
+            "value": 5.64406825866347
+        },
+        "id": "RU212729",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, ТЦ Город Лефортово",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7+7 (499) 657-99-52",
+        "street": "Энтузиастов шоссе 12, корп.2"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.707021,
+            "lng": 37.591456
+        },
+        "distance": {
+            "unit": "km",
+            "value": 5.67096676056466
+        },
+        "id": "RU212798",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, ТЦ Гагаринский",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "09:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "09:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "09:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "09:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "09:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "09:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "09:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(499)553-84-69",
+        "street": "Вавилова стр.3"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.789719,
+            "lng": 37.531402
+        },
+        "distance": {
+            "unit": "km",
+            "value": 6.57177921643853
+        },
+        "id": "RU428053",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, ТЦ Авиапарк",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)782-84-93",
+        "street": "Ходынский бульвар 4"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.789984,
+            "lng": 37.53017
+        },
+        "distance": {
+            "unit": "km",
+            "value": 6.65191123131488
+        },
+        "id": "RU427442",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas kids, ТЦ Авиапарк",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "23:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)782-26-51",
+        "street": "Ходынский бульвар 4"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.7300588,
+            "lng": 37.7312499
+        },
+        "distance": {
+            "unit": "km",
+            "value": 7.69722949099343
+        },
+        "id": "RU212758",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, ТЦ Город на Рязанке",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(499)657-99-15",
+        "street": "Рязанский проспект 2"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.694222,
+            "lng": 37.67468
+        },
+        "distance": {
+            "unit": "km",
+            "value": 7.74618987310333
+        },
+        "id": "RU512719",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas kids, Остров Мечты",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(499)553-81-51",
+        "street": "проспект Андропова 1"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.69411,
+            "lng": 37.67467
+        },
+        "distance": {
+            "unit": "km",
+            "value": 7.75694777806658
+        },
+        "id": "RU512720",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas store Moscow, Остров Мечты",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(499)553-81-53",
+        "street": "проспект Андропова 1"
+    },
+    {
+        "availability": "now",
+        "city": "Москва",
+        "coordinates": {
+            "lat": 55.691958,
+            "lng": 37.527956
+        },
+        "distance": {
+            "unit": "km",
+            "value": 9.05375254520921
+        },
+        "id": "RU212761",
+        "isCnCStore": 1,
+        "maxDeliveryDays": 0,
+        "name": "adidas, Капитолий на Вернадского",
+        "openingHours": [
+            {
+                "day": "monday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "tuesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "wednesday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "thursday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "friday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "saturday",
+                "from": "10:00",
+                "to": "22:00"
+            },
+            {
+                "day": "sunday",
+                "from": "10:00",
+                "to": "22:00"
+            }
+        ],
+        "phoneNumber": "+7(495)258-04-12",
+        "street": "Вернадского пр-т 6"
+    }
+]
